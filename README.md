@@ -12,3 +12,5 @@ courses_enroll (course, price, duration)
 # 3. register table:
 register (username,course,dob, phone_number, email,address, password, confirm_password, image_path)
 
+![image](https://github.com/user-attachments/assets/56387c69-5d84-4878-b95e-cd62f42014e1)
+![image](https://github.com/user-attachments/assets/4f99e5a1-2fdd-4bda-9625-f8cc1781c8b2)
